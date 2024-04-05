@@ -1,5 +1,4 @@
-# StereoNeRF
-## Official PyTorch implementation</sub>
+# StereoNeRF<br><sub>Official PyTorch Implementation</sub>
 
 Generalizable Novel-View Synthesis using a Stereo Camera
 
