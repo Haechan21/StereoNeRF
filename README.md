@@ -5,9 +5,8 @@ Haechan Lee*, Wonjoon Jin*, Seung-Hwan Baek, Sunghyun Cho<br>
 
 ## News
 - [x] Our paper is accepted to CVPR 2024!
-- [x] Check out our [project page](https://jinwonjoon.github.io/stereonerf/)!
-- [ ] The StereoNVS dataset will be released soon.
-- [ ] The BlendedMVS-Stereo dataset will be released soon.
+- [x] Check out our [Project page](https://jinwonjoon.github.io/stereonerf/)!
+- [x] The StereoNVS dataset and the BlendedMVS-Stereo dataset are released. Check out our [Google Drive Link](https://drive.google.com/drive/folders/1PI-_ESKw8fX_2YMD2v5DLR3FizikYxHO?usp=sharing)!
 - [ ] Code will be released soon.
 
 ## Abstact
