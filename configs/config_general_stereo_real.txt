@@ -1,0 +1,21 @@
+### INPUT
+expname = stereo
+logdir = ./logs
+nb_views = 6
+batch_size = 512
+
+## dataset
+eval_dataset_name = real
+real_train_root_path = "/root/haechanlee/data_local/haechanlee/scene_stereo_new_remaster/scene_stereo_train/"
+real_train_disp_path = "/root/haechanlee/data_local/haechanlee/scene_stereo_all_unimatch/"
+real_val_root_path = "/root/haechanlee/data_local/haechanlee/scene_stereo_new_remaster/scene_stereo_valid/"
+real_val_disp_path = "/root/haechanlee/data_local/haechanlee/scene_stereo_all_unimatch/"
+synthetic_root_path = "/root/haechanlee/data_local/haechanlee/3dfront_real_final/"
+synthetic_depth_path = "/root/haechanlee/data_local/haechanlee/3dfront_real_final/"
+
+### TESTING
+chunk = 4096  ### Reduce it to save memory
+
+### TRAINING
+num_steps = 250000
+lrate = 0.0005
